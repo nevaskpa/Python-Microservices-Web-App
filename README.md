@@ -1,6 +1,6 @@
 # Python Microservices Web App
 
-This project was created from a tutorial on Python Microservices using Django and Flask frameworks with a ReactJS front-end. The two microservices are built inside Docker containers and communicate via RabbitMQ event bus.
+This project was created from a tutorial on Python Microservices using Django REST framework and Flask with a ReactJS front-end. The two microservices are built inside Docker containers and communicate via RabbitMQ event bus.
 
 Resources:
 
